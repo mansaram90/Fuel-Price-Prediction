@@ -205,5 +205,5 @@ It also showed that model performance depends heavily on data quality and featur
 Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/mansaram90/Fuel-Price-Prediction.git
 cd fuel-price-prediction
